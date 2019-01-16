@@ -3,11 +3,11 @@
 ## Author: Somejoshdude | Thanks to Backburn &TrinityAdmin & MangAdmin Teams 
 ## Version: 7.3.5 ported from FireAdmin ported from TrinityAdmin3.3.5a
 ## Notes: This addonis only test on 7.3.5 with GM level 3 permissions
-## URL: http://code.google.com/p/trinityadmin/
+## URL: http://github.com/somejoshdude/LegionAdmin/
 ## Name: LegionAdmin
 ## License: GPLv3
 ## X-Date: 10 August 2010
-## X-eMail: 
+## X-eMail: somejoshdude@gmail.com
 ## X-Website: http://code.google.com/p/trinityadmin/
 ## OptionalDeps: AceLibrary,AceEvent-2.0,AceHook-2.1,AceDebug-2.0,AceLocale-2.2,AceConsole-2.0,AceAddon-2.0
 ## DefaultState: Enabled
